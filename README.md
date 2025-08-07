@@ -1,18 +1,18 @@
 # Good news, everyone! 🚀
 ## 🤖 Mattia Colombo ✏️ _Creative Coder_ ⌨️
-_For work_, I design ICs (commonly know as microchips), rolling in the semiconductor industry for more than a decade.<br/>
+_For work_, I design ICs (commonly know as microchips). I have been rolling in the semiconductor industry for more than a decade.<br/>
 My career developed accidentally across parallel roles, and now I'm doing my best to keep it that way, strengthening connections. <br/>
 Most of my efforts are now focused towards RTL digital design, system architecture for power management devices, and development of best practices and new methodologies.<br/><br/>
-_For fun_, I have been trying to learn how to create small single-page-applications for desktop and mobile. I'm on a long path that weirldy started in Matlab, went to Tk/PyQt, and now is hanging close to web development, but there is still a long way to get there.<br/><br/>
-_For relax_, I design digital illustrations and logos for small events and I struggle with video editing and playing chess.<br/>
+_For fun_, I have been trying to learn how to create small single-page-applications for desktop and mobile. I'm on a long path that weirdly started in Matlab, went to Tk/PyQt, and now is hanging close to web development, but there is still a long way to get there.<br/><br/>
+_For relax_, I design digital illustrations and logos for small events and I make stickers out of them. I also struggle with video editing and playing chess.<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattia-colombo-8b85007b/)](https://www.linkedin.com/in//mattia-colombo-8b85007b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matti.new@gmail.com)](mailto:matti.new@gmail.com)
 <br/>
 
-## My motivations
+## My Passions
 🔧 Handling everything included between a µC and an impact drill.<br/>
-🖋️ Spending savings for mechanical pencils, fineliners and illustrations.<br/>
+🖋️ Spending savings for mechanical pencils, fineliners and illustration books.<br/>
 🚲 Dreaming bikes, mountains and pizza.<br/>
 👀 Inspired by masters doing what they do best.<br/>
 <br/>
@@ -47,14 +47,11 @@ _For relax_, I design digital illustrations and logos for small events and I str
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13)
+<br/><br/>
 
-### Progresses (side hustles only)
+## My Progress (side hustles only)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mattinew&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
 
 
 <!--
